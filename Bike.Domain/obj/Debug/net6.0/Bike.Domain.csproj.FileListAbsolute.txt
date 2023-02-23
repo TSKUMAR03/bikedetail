@@ -1,0 +1,14 @@
+D:\project demo\csharpprogram\Bike.Domain\bin\Debug\net6.0\Bike.Domain.deps.json
+D:\project demo\csharpprogram\Bike.Domain\bin\Debug\net6.0\Bike.Domain.runtimeconfig.json
+D:\project demo\csharpprogram\Bike.Domain\bin\Debug\net6.0\Bike.Domain.dll
+D:\project demo\csharpprogram\Bike.Domain\bin\Debug\net6.0\Bike.Domain.pdb
+D:\project demo\csharpprogram\Bike.Domain\obj\Debug\net6.0\Bike.Domain.csproj.AssemblyReference.cache
+D:\project demo\csharpprogram\Bike.Domain\obj\Debug\net6.0\Bike.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\project demo\csharpprogram\Bike.Domain\obj\Debug\net6.0\Bike.Domain.AssemblyInfoInputs.cache
+D:\project demo\csharpprogram\Bike.Domain\obj\Debug\net6.0\Bike.Domain.AssemblyInfo.cs
+D:\project demo\csharpprogram\Bike.Domain\obj\Debug\net6.0\Bike.Domain.csproj.CoreCompileInputs.cache
+D:\project demo\csharpprogram\Bike.Domain\obj\Debug\net6.0\Bike.Domain.dll
+D:\project demo\csharpprogram\Bike.Domain\obj\Debug\net6.0\refint\Bike.Domain.dll
+D:\project demo\csharpprogram\Bike.Domain\obj\Debug\net6.0\Bike.Domain.pdb
+D:\project demo\csharpprogram\Bike.Domain\obj\Debug\net6.0\Bike.Domain.genruntimeconfig.cache
+D:\project demo\csharpprogram\Bike.Domain\obj\Debug\net6.0\ref\Bike.Domain.dll
